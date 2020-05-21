@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeaBattle", "SeaBattle\SeaB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{267E059B-AB82-4A5F-B1F2-2D4036ABD0A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "..\..\..\..\YandexDisk\Мои проекты\С#\Морской бой\Logic\Logic.csproj", "{0B5399B9-B0A4-41CD-A3B5-284685E07471}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "Logic\Logic.csproj", "{0B5399B9-B0A4-41CD-A3B5-284685E07471}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
